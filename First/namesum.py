@@ -6,9 +6,14 @@ Splittedalphabet = {value: key for key, value in enumerate(Alphabet, 1)}
 
 alphabet = Splittedalphabet | splittedalphabet
 
-name = [sign for sign in "Виктор"]
 
-namesum = 0
 
-print (alphabet)
-print(name)
+
+if __name__ == '__main__':
+    namesum = 0
+    name = input('Как тебя звать? ')
+    splitedname = [sign for sign in name]
+    print(splitedname)
+    for letter in splitedname:
+        namesum = namesum + alphabet[letter]
+        print(namesum)
