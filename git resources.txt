@@ -1,0 +1,5 @@
+1 https://youtu.be/G4f9OH4IQE8
+2 https://selectel.ru/blog/tutorials/git-setup-and-common-commands/
+3 https://practicum.yandex.ru/git-basics/?utm_source=pr&utm_medium=content&utm_campaign=pr_content_git-basics_habr&utm_content=19_10_23
+4 https://habr.com/ru/companies/yandex_praktikum/articles/700708/
+5 https://youtu.be/buygCuSqBsA
